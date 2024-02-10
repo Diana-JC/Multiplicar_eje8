@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplicar_eje8", "Multiplicar_eje8\Multiplicar_eje8.csproj", "{EAFDDEC5-D6ED-4BAF-9653-3D8FA9482979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAFDDEC5-D6ED-4BAF-9653-3D8FA9482979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFDDEC5-D6ED-4BAF-9653-3D8FA9482979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFDDEC5-D6ED-4BAF-9653-3D8FA9482979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFDDEC5-D6ED-4BAF-9653-3D8FA9482979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DD98AAB-40EB-4603-A7B8-217E48003CB2}
+	EndGlobalSection
+EndGlobal
